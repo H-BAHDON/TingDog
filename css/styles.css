@@ -104,3 +104,15 @@ color: grey
   border-radius: 100%;
   margin: 20px;
 }
+/* the start of the press csss */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#press img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
