@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+  font-family: Montserrat-Black;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+h1{
+  font-family: Montserrat-Black;
+  size: 3rem;
+  line-height: 1.5;
+}
+ /* start of the nav */
+.row h1{
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-family: ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+/* css button */
+
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+
+/* img css */
+
+.title-img {
+  width: 60%;
+  transform: rotate(35deg);
+}
+
+/* the beginning of feature */
+
+.feature-row {
+    padding: 7% 15%;
+    margin: auto;
+}
+
+.feature-box{
+  text-align: center;
+  line-height: 2.5rem;
+  padding: 9%;
+}
+.feature-box h3{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Montserrat-bold;
+}
+.feature-box p {
+color: grey
+}
+
+.icon {
+  padding: 10% 0;
+  color: #f5b3b3;
+  font-size: 3.5rem;
+}
+.icon:hover{
+  color: red;
+}
+
+
+/* the start of testimonials css */
+
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
