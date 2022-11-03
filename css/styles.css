@@ -161,3 +161,38 @@ color: grey
 .prcing-column {
   padding: 40px 40px ;
 }
+
+
+
+
+  /* the start of action section */
+
+  #cta{
+    background-color: #ff4c68;
+    text-align: center;
+  }
+
+  #cta h3 {
+    color: white;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: "Montserrat-bold";
+    line-height: 1.5;
+    padding: 7% 30%;
+  }
+
+  #cta button {
+    margin: 0 1% 7%;
+  }
+
+
+  /* the start of the footer styling */
+
+  #footer{
+    padding: 3% 5%;
+    text-align: center;
+  }
+
+  #footer i{
+      margin: 9px 6px;
+  }
